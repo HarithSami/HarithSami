@@ -16,12 +16,12 @@ Hi, I am Harith. Technical Designer at Criterion Games and a Mechatronics Engine
 
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://img.icons8.com/nolan/344/unreal-engine.png" />
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/344/linux--v1.png" />
 
 <img align="left" alt="C Sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://icon-library.com/images/unity-icon-png/unity-icon-png-23.jpg" />
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
@@ -30,7 +30,7 @@ Hi, I am Harith. Technical Designer at Criterion Games and a Mechatronics Engine
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" />
 
 <br />
 
