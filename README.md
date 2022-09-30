@@ -1,4 +1,17 @@
-### Hi there 👋
+# 🚴♂️ Harith Ibrahim
+
+**`Digital Craftsman (Developer/Engineer/Artist)`**
+
+
+Hi, I am Harith. Technical Designer at Criterion Games and a Mechatronics Engineer at the University of Leeds building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][https://www.youtube.com/channel/UCA9jGYuPfr4R4TnghOvC1YA]".
+
+
+
+
+
+
+
+
 
 <!--
 **HarithSami/HarithSami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
