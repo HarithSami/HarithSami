@@ -26,15 +26,15 @@ Hi, I am Harith. Technical Designer at Criterion Games and a Mechatronics Engine
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" />
 
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" />
+
 <br />
 
 #
 
 
 
-<details>
- <summary><h3>👨‍💻 Harith's Coding Journey</h3></summary>
-  TBD :)
+
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
