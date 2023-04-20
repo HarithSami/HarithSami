@@ -20,13 +20,14 @@ Hi, I am Harith. Technical Designer at Criterion Games and a Mechatronics Engine
 
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://img.icons8.com/nolan/344/unreal-engine.png" />
 
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://enterprise.launcher.omniverse.nvidia.com/static/logo.png" />
+
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/344/linux--v1.png" />
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" />
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" />
 
 <br />
 
