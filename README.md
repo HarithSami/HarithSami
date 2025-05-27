@@ -13,56 +13,6 @@ My main interests lie in:
 
 I'm always open to collaborating on innovative projects — especially in robotics and interactive media. Feel free to reach out!
 
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-
-<img align="left" alt="C Sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://icon-library.com/images/unity-icon-png/unity-icon-png-23.jpg" />
-
-<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://img.icons8.com/nolan/344/unreal-engine.png" />
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://enterprise.launcher.omniverse.nvidia.com/static/logo.png" />
-
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/344/linux--v1.png" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" />
-
-
-<br />
-
-#
-
-
-
-
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
-
-
-
-<!--
-**HarithSami/HarithSami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harithsami01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harith-ibrahim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@harithsami843) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harithsami01@gmail.com) 
 
