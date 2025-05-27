@@ -2,10 +2,17 @@
 
 **`Digital Craftsman (Developer/Engineer/Artist)`**
 
+Hi, I’m Harith — a Mechatronics Engineer from the University of Leeds, currently working at Ultracel Networks on machine learning applications for data centers and web app development. Previously, I’ve worked at Criterion Games (EA) as a Technical Designer and at Nokia Bell Labs, where I helped bring complex ideas to life through code.
 
-Hi, I am Harith. Technical Designer at Criterion Games and a Mechatronics Engineer at the University of Leeds building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code from ideation and planning, all the way to finalizing the content and optimizing performance. Great interest in Robotics 🦾 Machine Learning 🤖 and Game development. 🎮
+I’m passionate about building projects from the ground up — from planning and design to implementation and performance optimization — always with the goal of solving real-world problems through technology.
 
----
+My main interests lie in:
+🦾 Robotics
+🤖 Machine Learning
+🎮 3D Graphics & Game Development
+
+I'm always open to collaborating on innovative projects — especially in robotics and interactive media. Feel free to reach out!
+
 
 ### 🧰 Languages and Tools
 
@@ -55,11 +62,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# 💫 About Me:
-🔭 I'm currently working on machine learning applications in data centers, as well as building web applications.<br>🤖 I'm especially interested in robotics and would love to collaborate on exciting projects in that space.<br>🎮 Passionate about 3D graphics and game development — feel free to reach out if you'd like to chat or team up!
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harithsami01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harith-ibrahim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@harithsami843) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harithsami01@gmail.com) 
