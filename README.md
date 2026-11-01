@@ -1,38 +1,31 @@
-# 🚴 Harith Ibrahim
+# Harith Ibrahim
 
-**`Digital Craftsman (Developer/Engineer/Artist)`**
+**ML Systems Engineer · Energy-efficient inference & data center compute**
 
-Hi, I’m Harith — a Mechatronics Engineer from the University of Leeds, currently working at Ultracel Networks on machine learning applications for data centers and web app development. Previously, I’ve worked at Criterion Games (EA) as a Technical Designer and at Nokia Bell Labs, where I helped bring complex ideas to life through code.
+I make machine learning, and the infrastructure that runs it, cheaper, faster and more power-efficient.
 
-I’m passionate about building projects from the ground up — from planning and design to implementation and performance optimization — always with the goal of solving real-world problems through technology.
+- ⚡ **Now:** ML Engineer at UltraCell Networks. Co-designed a switchless ring data center fabric (NICs acting as SDN switches) with deep-RL VM placement: **74% less power, 18% lower latency** than an equal-size spine-leaf network.
+- 📏 **Standards:** contributor to **IEEE P1959 / P1960** (energy-efficiency metrics and guidance for ML hardware and systems).
+- 🔬 **Research:** 4 published papers on energy-efficient optical and edge data center architectures and LLM-driven embedded systems ([Google Scholar](https://scholar.google.co.uk/citations?user=D0ZI6BoAAAAJ)).
+- 🤖 **Before:** RL research internship at **Nokia Bell Labs** (drone navigation, 100k+ procedurally generated Isaac Sim environments) · Technical Designer at **Criterion Games / EA** (Need for Speed Unbound, Frostbite).
 
-My main interests lie in:
-🦾 Robotics
-🤖 Machine Learning
-🎮 3D Graphics & Game Development
+## 🔭 Current project
 
-I'm always open to collaborating on innovative projects — especially in robotics and interactive media. Feel free to reach out!
+**[falcon-hybrid-crossover-benchmark](https://github.com/HarithSami/falcon-hybrid-crossover-benchmark)**: profiling Transformer (Falcon3-7B), SSM (Falcon3-Mamba-7B) and hybrid (Falcon-H1-7B) models on NVIDIA L4 from 512 to 16K context. It measures joules per token (NVML), decode throughput and memory-bandwidth utilisation, plus output drift under BF16, uniform INT4 and branch-aware mixed precision.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harithsami01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harith-ibrahim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@harithsami843) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harithsami01@gmail.com) 
+## 🧭 Interests
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarithSami&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarithSami&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarithSami&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+Inference efficiency · Quantization · Energy measurement for ML · Reinforcement learning environments · Data center networking · Robotics & simulation
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarithSami&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Tools
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NVIDIA](https://img.shields.io/badge/CUDA%20%2F%20NVML-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=HarithSami&icon=0&color=0)](https://visitcount.itsvg.in)
+<sub>Also: TensorFlow · Isaac Sim · Optuna · FPGA · embedded C · Spring Boot · Next.js · PostgreSQL</sub>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harith-ibrahim) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.co.uk/citations?user=D0ZI6BoAAAAJ) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harithsami01@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarithSami/HarithSami/output/github-snake-dark.svg" />
